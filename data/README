@@ -1,0 +1,6 @@
+Files are line-formatted,
+
+* First two lines indicate the number of gates and the number of flights respectively.
+
+* Each line of the type "#i: arr dep g1 g2 ... gk" describes a flight by a unique number i, its arrival and departure times, and the gates at which it is allowed to go.
+
