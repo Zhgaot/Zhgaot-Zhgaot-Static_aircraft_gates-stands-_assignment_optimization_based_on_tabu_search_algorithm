@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+""" 存放了一些辅助函数和评价函数 """
 
 interval_value_max, conflict_max = 1, 1
 interval_value_min = 0

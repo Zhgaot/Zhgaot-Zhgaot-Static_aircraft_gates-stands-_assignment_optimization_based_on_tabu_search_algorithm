@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+""" 用于绘制初始解与最终解的甘特图 """
 
 import matplotlib.pyplot as plt
 from matplotlib.font_manager import FontProperties

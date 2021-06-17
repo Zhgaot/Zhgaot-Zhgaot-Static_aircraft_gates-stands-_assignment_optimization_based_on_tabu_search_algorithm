@@ -1,5 +1,10 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+""" 航班（飞机）类的实现 """
+
 import numpy as np
 import os
+
 
 class Flight:
     """定义航班类, 其内部属性如下 :

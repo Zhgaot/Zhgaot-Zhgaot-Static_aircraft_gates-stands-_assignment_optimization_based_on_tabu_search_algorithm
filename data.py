@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+""" 用于data目录中读取数据 """
 
 import numpy as np
 import os

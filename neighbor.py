@@ -1,3 +1,5 @@
+""" neighbor类的实现，用于定义邻域解决方案 """
+
 
 class Neighbor:
 	def __init__(self, nb_sol, f, g1, g2):

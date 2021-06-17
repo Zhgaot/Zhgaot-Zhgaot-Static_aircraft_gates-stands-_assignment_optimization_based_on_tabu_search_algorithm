@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+""" 禁忌搜索的实现（封装） """
 
 import random
 import time

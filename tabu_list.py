@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+""" 禁忌表类的实现 """
 
 class Tabu_list:
     """ 禁忌表类 """

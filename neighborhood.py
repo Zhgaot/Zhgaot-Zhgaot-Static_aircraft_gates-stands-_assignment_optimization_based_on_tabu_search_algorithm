@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-""" neighborhood：通过邻域动作，来生成邻域(候选)解 """
+""" 邻域动作的实现（封装），通过邻域动作，来生成邻域(候选)解 """
 
 import neighbor as nb
 import random

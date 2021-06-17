@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-'''Original Author: Mathilde GARRIGUES, Abderrafie MOUNADIM, Rime RAISSOUNI;
-The author of the optimized content: Zhang Gaotian'''
+
+'''
+Original Author: Mathilde GARRIGUES, Abderrafie MOUNADIM, Rime RAISSOUNI;
+The author of the optimized content: Zhang Gaotian
+主函数（运行入口）
+'''
 
 import time
 import data
